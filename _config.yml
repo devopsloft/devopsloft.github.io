@@ -4,8 +4,10 @@ email: "liora [- @ -] lmb.co.il"
 description: To be the meeting point for DevOps practitioners, past, present and future
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
+  - jekyll-paginate
   - jekyll-include-cache
-
+paginate: 10 
+paginate_path: /recent/page:num/
 defaults:
   - scope:
       path: ""
