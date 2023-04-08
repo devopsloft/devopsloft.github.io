@@ -3,4 +3,6 @@ author:
   name: lmilbaum
   email: liora@lmb.co.il
 description: To be the meeting point for DevOps practitioners, past, present and future
-remote_theme: mmistakes/minimal-mistakes@v4.24.0
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+jekyll_plugins:
+  - jekyll-include-cache
