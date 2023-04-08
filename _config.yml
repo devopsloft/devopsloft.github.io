@@ -3,4 +3,4 @@ author:
   name: lmilbaum
   email: liora@lmb.co.il
 description: To be the meeting point for DevOps practitioners, past, present and future
-theme: minima
+remote_theme: mmistakes/minimal-mistakes@v4.24.0
