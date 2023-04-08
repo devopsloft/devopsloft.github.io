@@ -1,12 +1,9 @@
 ---
 title: Continuous Improvement
 layout: post
-post-image: ""
 description: Continuous Improvement
 tags:
 - DevOps
-- Continuous Improvement
-- GitHub Pages
 ---
 Good morning and good week,<br>
 <br>
