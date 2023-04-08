@@ -1,5 +1,6 @@
 title: DevOps Loft Blog
+author:
+  name: lmilbaum
+  email: liora@lmb.co.il
 description: To be the meeting point for DevOps practitioners, past, present and future
-remote_theme: minima
-plugins:
-- jekyll-remote-theme
+theme: minima
