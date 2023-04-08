@@ -11,5 +11,5 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: single
+      layout: posts
       show_date: true
