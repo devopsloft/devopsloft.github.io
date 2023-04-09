@@ -8,6 +8,7 @@ tags:
 - Continuous Improvement
 - GitHub Pages
 ---
+<div class="rtl">
 בוקר טוב ושבוע טוב,<br>
 <br>
 שוב פעם פוסט קצת שונה מהרגיל. <br>
@@ -33,5 +34,6 @@ tags:
 האם למדתם משהו שלא ידעתם קודם?<br>
 האם התמודדתם עם אתגר דומה באופן שונה? בכלים שונים?<br>
 שבוע טוב וקסום.<br>
+</div>
 
 נ.ב. רוצים לדבר איתי באחד על אחד.  בכיף.  לחצו על [לינק](https://calendly.com/lmilbaum/chitchat). <br>
