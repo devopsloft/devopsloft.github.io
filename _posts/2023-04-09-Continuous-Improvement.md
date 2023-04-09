@@ -1,6 +1,5 @@
 ---
 title: Continuous Improvement
-layout: post
 description: Continuous Improvement
 tags:
 - DevOps
