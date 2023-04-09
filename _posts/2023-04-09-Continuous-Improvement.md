@@ -5,7 +5,7 @@ description: Continuous Improvement
 tags:
 - DevOps
 ---
-Good morning, have a good week and happy holidays,,<br>
+Good morning, have a good week and happy holidays,<br>
 <br>
 Once again a slightly different post than usual. A behind-the-scenes look at this group. <br>
 In recent weeks we have been watching the increasing involvement of [Evan Slatis](https://www.facebook.com/hippyod). <br>
