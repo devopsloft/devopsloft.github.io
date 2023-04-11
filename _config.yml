@@ -5,6 +5,7 @@ description: To be the meeting point for DevOps practitioners, past, present and
 # github_username: username
 minimal_mistakes_skin: dark
 search: true
+logo: "/assets/images/logo.png"
 
 # Build settings
 markdown: kramdown
