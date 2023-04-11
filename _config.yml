@@ -3,7 +3,7 @@ email: "liora [- @ -] lmb.co.il"
 description: To be the meeting point for DevOps practitioners, past, present and future
 # twitter_username: username
 # github_username: username
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
