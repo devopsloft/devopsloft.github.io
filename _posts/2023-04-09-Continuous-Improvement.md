@@ -2,12 +2,8 @@
 title: Continuous Improvement
 description: Continuous Improvement
 tags:
-
 - DevOps
-
 ---
-# Continuous Improvement
-
 Original Facebook post in Hebrew [here](https://www.facebook.com/groups/devopsloft/posts/1818561898537339/)
 
 Good morning, have a good week and happy holidays,  
