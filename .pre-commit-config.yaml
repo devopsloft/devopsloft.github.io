@@ -20,7 +20,6 @@ repos:
     rev: v0.12.0
     hooks:
       - id: markdownlint
-        additional_dependencies: [rake]
   - repo: https://github.com/maxbrunet/pre-commit-renovate
     rev: 34.160.0
     hooks:
