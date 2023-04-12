@@ -1,6 +1,20 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:base"
+    "config:base",
+    ":enablePreCommit",
+    "group:allNonMajor"
+  ],
+  "automerge": false,
+  "schedule": [
+    "every weekend"
+  ],
+  "regexManagers": [
+    {
+      "fileMatch": ["_config.yml"],
+      "matchStrings": ["remote_theme: mmistakes/minimal-mistakes@(?<currentValue>.*?)\\n"],
+      "depNameTemplate": "mmistakes/minimal-mistakes",
+      "datasourceTemplate": "github-releases"
+    }
   ]
 }
