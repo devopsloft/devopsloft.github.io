@@ -70,8 +70,7 @@ All that's left to do is:
    working)  
 
 1. Make sure that Renovate knows how to process your tag schema (assuming it's  
-
-not standard)  
+   not standard)  
 
 Let's party. The poc is ready for demo.  
 Those who want to see it should say: me!!!  
