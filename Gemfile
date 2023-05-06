@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'jekyll', "= 3.9.3"
+gem 'jekyll', "= 4.3.2"
 gem 'jemoji', "= 0.12.0"
 gem 'jekyll-paginate', "= 1.1.0"
 gem 'jekyll-sitemap', "= 1.4.0"
