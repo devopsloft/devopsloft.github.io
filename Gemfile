@@ -7,6 +7,6 @@ gem 'jekyll-sitemap', "= 1.4.0"
 gem 'jekyll-feed', "= 0.15.1"
 gem 'kramdown-parser-gfm', "= 1.1.0"
 gem 'webrick', "= 1.8.1"
-gem 'jekyll-gist'
-gem 'jekyll-include-cache'
+gem 'jekyll-gist', "=1.5.0"
+gem 'jekyll-include-cache', "=0.2.1"
 gem 'github-pages', "= 228", group: :jekyll_plugins

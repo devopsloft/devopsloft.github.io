@@ -5,6 +5,7 @@
     ":enablePreCommit",
     "group:allNonMajor"
   ],
+  "rangeStrategy": "update-lockfile",
   "automerge": false,
   "schedule": [
     "every weekend"
