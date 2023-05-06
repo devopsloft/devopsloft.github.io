@@ -1,18 +1,19 @@
 title: DevOps Loft Blog
 email: "liora [- @ -] lmb.co.il"
 description: To be the meeting point for DevOps practitioners, past, present and future
-# twitter_username: username
-# github_username: username
 minimal_mistakes_skin: dark
 search: true
 logo: "/assets/images/logo.png"
+repository: "devopsloft/devopsloft.github.io"
+domain: devopsloft.github.io
+url: https://devopsloft.github.io
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -30,32 +31,6 @@ plugins:
 author:
   name   : "Liora Milbaum"
   avatar : "/assets/images/lmilbaum.jpg"
-  # bio    : ""
-  # links:
-  #   - label: "Website"
-  #     icon: "fas fa-fw fa-link"
-  #     url: "https://"
-  #   - label: "Twitter"
-  #     icon: "fab fa-fw fa-twitter-square"
-  #     url: "https://twitter.com/"
-  #   - label: "GitHub"
-  #     icon: "fab fa-fw fa-github"
-  #     url: "https://github.com/"
-  #   - label: "Instagram"
-  #     icon: "fab fa-fw fa-instagram"
-  #     url: "https://instagram.com/"
-
-# footer:
-#   links:
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -69,13 +44,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 
 category_archive:
   type: liquid
