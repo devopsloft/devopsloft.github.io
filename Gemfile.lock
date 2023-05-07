@@ -256,8 +256,8 @@ DEPENDENCIES
   github-pages (= 228)
   jekyll (= 3.9.3)
   jekyll-feed (= 0.15.1)
-  jekyll-gist
-  jekyll-include-cache
+  jekyll-gist (= 1.5.0)
+  jekyll-include-cache (= 0.2.1)
   jekyll-paginate (= 1.1.0)
   jekyll-sitemap (= 1.4.0)
   jemoji (= 0.12.0)
