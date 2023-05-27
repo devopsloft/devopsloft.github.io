@@ -1,5 +1,6 @@
+---
 default_language_version:
-    python: python3
+  python: python3
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
@@ -24,3 +25,8 @@ repos:
     rev: 35.102.6
     hooks:
       - id: renovate-config-validator
+  - repo: https://github.com/adrienverge/yamllint.git
+    rev: v1.32.0
+    hooks:
+      - id: yamllint
+        args: [--strict]
