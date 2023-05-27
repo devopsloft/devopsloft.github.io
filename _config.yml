@@ -29,8 +29,14 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Liora Milbaum"
-  avatar : "/assets/images/lmilbaum.jpg"
+  name     : "Liora Milbaum"
+  avatar   : "/assets/images/lmilbaum.jpg"
+  bio      : "I am DevOps Engineer with a twist"
+  location : "Tel Aviv, Israel"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lmilbaum"
 
 defaults:
   # _posts
