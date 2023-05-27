@@ -1,6 +1,8 @@
+---
 title: DevOps Loft Blog
 email: "liora [- @ -] lmb.co.il"
-description: To be the meeting point for DevOps practitioners, past, present and future
+description: >
+  To be the meeting point for DevOps practitioners, past, present and future
 minimal_mistakes_skin: dark
 search: true
 logo: "/assets/images/logo.png"
@@ -15,7 +17,7 @@ remote_theme: mmistakes/minimal-mistakes@4.24.0
 permalink: /:categories/:title/
 paginate: 5
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: IL
 
 include:
   - _pages
@@ -29,10 +31,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name     : "Liora Milbaum"
-  avatar   : "/assets/images/lmilbaum.jpg"
-  bio      : "I am DevOps Engineer with a twist"
-  location : "Tel Aviv, Israel"
+  name: "Liora Milbaum"
+  avatar: "/assets/images/lmilbaum.jpg"
+  bio: "I am DevOps Engineer with a twist"
+  location: "Tel Aviv, Israel"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
