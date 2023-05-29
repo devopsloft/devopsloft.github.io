@@ -1,7 +1,8 @@
 ---
 title: Paved Paths 2
-description: Paved Paths
-excerpt: ""
+description: Paved Paths 2
+excerpt: "Following on from last week's post. The series of blog posts talks about paved
+paths."
 tags:
   - DevOps
   - Platform Engineering
