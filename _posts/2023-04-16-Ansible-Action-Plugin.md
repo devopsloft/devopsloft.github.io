@@ -1,6 +1,9 @@
 ---
 title: Ansible Action Plugin
 description: Ansible Action Plugin for k8s connection
+excerpt: "Returning to the ongoing, never ending story. At issue is an Openshift cluster  
+running on AWS on which Gitlab CI Runner will be installed. And all this  
+goodness through automation."
 tags:
 - DevOps
 - Platform Engineering
@@ -12,8 +15,6 @@ tags:
 - GitHub
 ---
 Original Facebook post in Hebrew [here][0]
-
-Good morning and good week,  
 
 Returning to the ongoing, never ending story. At issue is an Openshift cluster  
 running on AWS on which Gitlab CI Runner will be installed. And all this  

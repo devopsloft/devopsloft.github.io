@@ -1,12 +1,12 @@
 ---
 title: Continuous Improvement
 description: Continuous Improvement
+excerpt: "Once again a slightly different post than usual. A behind-the-scenes look at
+this group."
 tags:
 - DevOps
 ---
 Original Facebook post in Hebrew [here](https://www.facebook.com/groups/devopsloft/posts/1818561898537339/)
-
-Good morning, have a good week and happy holidays,  
 
 Once again a slightly different post than usual. A behind-the-scenes look at
 this group.  

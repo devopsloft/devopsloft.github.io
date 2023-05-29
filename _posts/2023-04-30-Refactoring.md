@@ -1,14 +1,15 @@
 ---
 title: Refactoring
 description: Refactoring
+excerpt: "I must admit that I am still in the new story. It gains momentum and takes on  
+a viral life of its own. Those who do not know what this is about should go  
+back and read the post from last week."
 tags:
 - DevOps
 - Platform Engineering
 - Efficiency Engineering
 ---
 Original Facebook post in Hebrew [here](https://www.facebook.com/groups/devopsloft/posts/1830660537327475/)
-
-Good morning and a good week,  
 
 I must admit that I am still in the new story. It gains momentum and takes on  
 a viral life of its own. Those who do not know what this is about should go  

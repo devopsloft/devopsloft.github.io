@@ -1,6 +1,8 @@
 ---
 title: Container Images Assembly Line
 description: Container Images Assembly Line
+excerpt: "This week I took a break from the serial story and focused on something a  
+little different."
 tags:
 - DevOps
 - Platform Engineering
@@ -11,8 +13,6 @@ tags:
 - CI/CD
 ---
 Original Facebook post in Hebrew [here][0]
-
-Good morning and good week,
 
 This week I took a break from the serial story and focused on something a  
 little different.  
