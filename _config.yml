@@ -39,6 +39,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lmilbaum"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:liora@lmb.co.il"
 
 defaults:
   # _posts
