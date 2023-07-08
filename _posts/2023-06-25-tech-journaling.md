@@ -2,7 +2,7 @@
 title: Tech Journaling
 description: Tech Journaling
 excerpt: "Lately I've had an aha moment that this group has become my personal
-travel diary into the ins and outs of DevOps and the Platform Engineering"
+travel diary into the ins and outs of DevOps and Platform Engineering"
 tags:
   - DevOps
   - Platform Engineering
