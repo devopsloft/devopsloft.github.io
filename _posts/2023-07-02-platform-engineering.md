@@ -1,7 +1,7 @@
 ---
 title: Platform Engineering
 description: Platform Engineering
-excerpt: ""
+excerpt: "Pausing for a second to share a video that made a lot of sense in my mind"
 tags:
   - DevOps
   - Platform Engineering
