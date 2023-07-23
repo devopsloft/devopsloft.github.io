@@ -1,14 +1,15 @@
 ---
 title: Getting Help
 description: Getting Help
+excerpt: "After opening and closing parentheses in last week's post, I'm back on track. Not a question. Time is short and the work is plentiful."
 tags:
   - DevOps
   - Platform Engineering
   - Efficiency Engineering
   - Engineering Enablement
 ---
-After opening and closing parentheses in last week's post, I'm back on track. No
-a question. Time is short and the work is plentiful.
+After opening and closing parentheses in last week's post, I'm back on track.
+Not a question. Time is short and the work is plentiful.
 The goal is - to set up a DEV environment with a Gitlab server and also a
 runner running on minikube. And all this goodness using devcontainer and helm
 chart.
