@@ -18,7 +18,7 @@ repos:
           - "main"
       - id: check-symlinks
   - repo: https://github.com/markdownlint/markdownlint
-    rev: v0.12.0
+    rev: v0.13.0
     hooks:
       - id: markdownlint
   - repo: https://github.com/maxbrunet/pre-commit-renovate
