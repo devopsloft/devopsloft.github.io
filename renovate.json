@@ -12,5 +12,13 @@
       "depNameTemplate": "mmistakes/minimal-mistakes",
       "datasourceTemplate": "github-releases"
     }
+  ],
+  "packageRules": [
+    {
+      "description": "Disable renovating jemoji",
+      "matchManagers": ["bundler"],
+      "matchPackageNames": ["jemoji"],
+      "enabled": false
+    }
   ]
 }
