@@ -16,11 +16,11 @@
   "packageRules": [
     {
       "matchPackageNames": ["jemoji"],
-      "matchCurrentVersion": "<=0.12.0"
+      "allowedVersions": "<=0.12.0"
     },
     {
       "matchPackageNames": ["jekyll"],
-      "matchCurrentVersion": "<=3.9.3"
+      "allowedVersions": "<=3.9.3"
     }
   ]
 }
