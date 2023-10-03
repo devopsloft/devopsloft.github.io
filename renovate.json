@@ -21,6 +21,10 @@
     {
       "matchPackageNames": ["jekyll"],
       "allowedVersions": "<=3.9.3"
+    },
+    {
+      "matchPackageNames": ["jekyll-feed"],
+      "allowedVersions": "<=0.15.1"
     }
   ]
 }
