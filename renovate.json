@@ -15,14 +15,10 @@
   ],
   "packageRules": [
     {
-      "description": "Disable renovating jemoji",
-      "matchManagers": ["bundler"],
       "matchPackageNames": ["jemoji"],
       "matchCurrentVersion": "<=0.12.0"
     },
     {
-      "description": "Disable renovating jemoji",
-      "matchManagers": ["bundler"],
       "matchPackageNames": ["jekyll"],
       "matchCurrentVersion": "<=3.9.3"
     }
