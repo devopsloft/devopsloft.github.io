@@ -22,7 +22,7 @@ repos:
     hooks:
       - id: markdownlint
   - repo: https://github.com/maxbrunet/pre-commit-renovate
-    rev: 37.102.1
+    rev: 37.107.0
     hooks:
       - id: renovate-config-validator
   - repo: https://github.com/adrienverge/yamllint.git
