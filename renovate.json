@@ -15,10 +15,6 @@
   ],
   "packageRules": [
     {
-      "matchPackageNames": ["jemoji"],
-      "allowedVersions": "<=0.12.0"
-    },
-    {
       "matchPackageNames": ["jekyll"],
       "allowedVersions": "<=3.9.3"
     },
