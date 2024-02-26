@@ -12,15 +12,5 @@
       "depNameTemplate": "mmistakes/minimal-mistakes",
       "datasourceTemplate": "github-releases"
     }
-  ],
-  "packageRules": [
-    {
-      "matchPackageNames": ["jekyll"],
-      "allowedVersions": "<=3.9.3"
-    },
-    {
-      "matchPackageNames": ["jekyll-feed"],
-      "allowedVersions": "<=0.15.1"
-    }
   ]
 }
